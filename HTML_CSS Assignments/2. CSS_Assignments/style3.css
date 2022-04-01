@@ -1,0 +1,9 @@
+div{
+    text-transform: uppercase;
+}
+p{
+    text-transform:none;
+}
+body{
+    background-color: aqua;
+}
